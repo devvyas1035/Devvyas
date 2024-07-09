@@ -67,10 +67,9 @@ input[type='submit']:hover{
     margin:4px 0px;
 }
 .mainback{
-    background-color: blue;      
+    background-color: gray;      
     padding: 20px;
     display: flex;
-    background-image: url(https://marketplace.canva.com/EAF740kG-Qk/1/0/450w/canva-blue-gold-luxury-elegant-background-instagram-story-5TgGUdeWjHw.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     justify-content: space-around;
